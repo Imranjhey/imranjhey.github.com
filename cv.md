@@ -9,8 +9,8 @@ title: ""
 
 <h2><u>Education</u></h2>
 <li><b>Sep. 2020 - Present &emsp;&emsp;&emsp;&emsp; PhD Student</b> at Budapest Univ. of Technology and Economics, Hungary.<br>
-- PhD Thesis : Algebraic methods in quantum information processing
-- Supervisor : Prof. Gábor Ivanyos.</li>
+ &emsp; <li>PhD Thesis : Algebraic methods in quantum information processing <br>
+ &emsp; <li>Supervisor : Prof. Gábor Ivanyos.</li>
               
 <li><pre><b>Feb. 2021 - Present       Teaching Fellow</b> at Budapest Univ. of Technology and Economics, Hungary.</pre></li>
 <li><pre><b>Sep. 2020 - Present       PhD Student</b> at Budapest Univ. of Technology and Economics, Hungary.</pre></li>
