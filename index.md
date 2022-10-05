@@ -5,7 +5,7 @@ tittle: ""
 
 <img src="https://imranjhey.github.io/github.jpg"
      widht="300"
-     height=auto />
+     height= "auto" />
 
 
      
