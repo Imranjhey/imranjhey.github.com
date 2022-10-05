@@ -2,7 +2,7 @@
 layout: page
 tittle: ""
 ---
-<img src="imranjhey.github.io/github.jpg" 
+<img src="https://github.com/imranjhey/imranjhey.github.io/blob/master/github.jpg" 
      width="300" 
      height=auto />
      
