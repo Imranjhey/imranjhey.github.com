@@ -10,6 +10,6 @@ title: ""
 
 <h2><u>Research in progress</u></h2>
 
-<li> <b>Zero sum subsets and hidden subgroup problem</b> <br>&ensp;&ensp;Authors: Muhammd Imran & Gábor Ivanyos.</li>
+<li> <b>Zero sum subsets and hidden subgroup problem</b> <br>&ensp;&ensp;Authors: Muhammd Imran & <a href="http://old.sztaki.hu/~ivanyos/">Gábor Ivanyos</a>.</li>
 
 <li> <b>An HSP-based quantum attacks on isogeny-based cryptography</b> <br>&ensp;&ensp;Author: Muhammad Imran, <a href="http://old.sztaki.hu/~ivanyos/">Gábor Ivanyos</a>, & <a href="https://sites.google.com/view/peterkutas89/main-page?authuser=0">Péter Kutas</a> .</li>
