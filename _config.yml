@@ -20,7 +20,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Teaching", file: "teaching.md"}
   - {title: "Talks", file: "talks.md"}
   - {title: "Conferences", file: "conferences.md"}
-  - {title: "CV", file: "cv.pdf"}
+  - {title: "CV", <embed src="https://github.com/imranjhey/imranjhey.github.io/blob/master/cv.pdf" width="500" height="375" 
+ type="application/pdf">}
   - {title: "News", file: "news.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
