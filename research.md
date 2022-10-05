@@ -4,7 +4,7 @@ title: "Research"
 ---
 <h2>Publications and preprints</h2>
 
-<h3>An exact quantum hidden subgroup algorithm and applications to solvable groups</h3>
+<h5>An exact quantum hidden subgroup algorithm and applications to solvable groups</h5>
 
 Authors: Muhammd Imran & Gábor Ivanyos.
 
