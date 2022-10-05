@@ -1,4 +1,7 @@
-
+---
+layout: default
+tittle: ""
+---
 
 I am a professional lecturer at Informatics Faculty ([School of Computing](https://telkomuniversity.ac.id/en/school-of-informatics/)) of Telkom University, Bandung, Indonesia.
 
