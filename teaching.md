@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Teaching"
+title: ""
 ---
 <h2><u>Budapest University of Technology and Economics</u></h2>
 <p>During my PhD, I work as a teaching assistant for some algebra and computer science courses:</p>
