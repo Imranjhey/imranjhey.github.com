@@ -8,6 +8,7 @@ title: ""
 <li><b>QWorld: Quantum Computing and Programming</b></li>
 <li><b>Isogeny-Based Cryptography School 2021</b></li>
 <li><b>Budapest Graduate Seminars</b></li>
-
-<h2>Conferences & Workshops</h2>
 <li><b>Workshop on Quantum Algorithms in Number Theory </b></li>
+
+<h2>Conferences</h2>
+
