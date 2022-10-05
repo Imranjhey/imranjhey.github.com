@@ -4,7 +4,7 @@ tittle: ""
 ---
 
 <img src="https://imranjhey.github.io/github.jpg"
-     widht="250"
+     widht="300"
      height=auto />
 
 
