@@ -8,7 +8,7 @@ title: ""
 <li><b>Sep. 2020 - Present &emsp;&emsp;&emsp;&emsp; PhD Student</b> at Budapest Univ. of Technology and Economics, Hungary.</li>
 
 <h2><u>Education</u></h2>
-<li><b>Sep. 2020 - Present &emsp;&emsp;&emsp;&emsp; PhD Student</b> at Budapest Univ. of Technology and Economics, Hungary.<br>
+<li><b>Sep. 2020 - Present &emsp;&emsp;&emsp;&emsp;&ensp;&ensp; PhD Student</b> at Budapest Univ. of Technology and Economics, Hungary.<br>
  &emsp; - PhD Thesis : Algebraic methods in quantum information processing <br>
  &emsp; - Supervisor : Prof. Gábor Ivanyos.</li>
 <li><b>Sep. 2017 - Aug. 2019 &emsp;&emsp;&emsp;&emsp; M.Sc in Mathematics</b> at Leiden University, The Netherlands.<br>
