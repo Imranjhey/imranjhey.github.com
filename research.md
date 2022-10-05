@@ -13,7 +13,7 @@ title: "Research"
 <h2><u>Research in progress</u></h2>
 
 <li> <b>Zero sum subsets and hidden subgroup problem</b> </li>
-<p>Authors: Muhammd Imran & Gábor Ivanyos.</p>
+&nbsp;&ensp; Authors: Muhammd Imran & Gábor Ivanyos.
 
 <li> <b>An HSP-based quantum attacks on isogeny-based cryptography</b> </li>
-<p>Author: Muhammad Imran, Gábor Ivanyos, & Péter Kutas.</p>
+&nbsp;&ensp; Author: Muhammad Imran, Gábor Ivanyos, & Péter Kutas.
