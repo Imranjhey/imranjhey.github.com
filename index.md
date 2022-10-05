@@ -3,8 +3,8 @@ layout: page
 tittle: ""
 ---
 <img src="imranjhey.github.io/github.jpg" 
-     width="400" 
-     height="500" />
+     width="300" 
+     height=auto />
      
 I am a professional lecturer at Informatics Faculty ([School of Computing](https://telkomuniversity.ac.id/en/school-of-informatics/)) of Telkom University, Bandung, Indonesia. Currently, I am on leave for finishing my Ph.D at [Doctoral School of Mathematics and Computer Science](https://doktori.math.bme.hu/english/index-E.html) at Budapest University of Technology and Economics, Budapest, Hungary, under supervision of [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/). 
 
