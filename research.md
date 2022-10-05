@@ -5,10 +5,10 @@ title: "Research"
 <h2><u>Publications and preprints</u></h2>
 
 <li> <b>An exact quantum hidden subgroup algorithm and applications to solvable groups</b> </li>
-&ensp; Authors: Muhammd Imran & Gábor Ivanyos.
+&emsp; &ensp; Authors: Muhammd Imran & Gábor Ivanyos.
 
 <li> <b>An exact quantum order finding algorithm and its applications</b> </li>
-&ensp; <p>Author: Muhammad Imran.</p>
+&ensp; &emsp; Author: Muhammad Imran.
 
 <h2><u>Research in progress</u></h2>
 
