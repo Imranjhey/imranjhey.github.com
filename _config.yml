@@ -17,7 +17,7 @@ mathjax: true
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "Research", file: "research.html"}
+  - {title: "Research", file: "research.md"}
   - {title: "Teaching", file: "teaching.md"}
   - {title: "Talks", file: "talks.md"}
   - {title: "Conferences", file: "conferences.md"}
