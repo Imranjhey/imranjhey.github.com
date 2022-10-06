@@ -1,6 +1,7 @@
 ---
 layout: page
 mathjax: true
+categories: media
 title: ""
 ---
 <h2><u>Publications and preprints</u></h2>
