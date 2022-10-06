@@ -11,6 +11,8 @@ Authors: Muhammd Imran & <a href="http://old.sztaki.hu/~ivanyos/">Gábor Ivanyos
 The natural property of quantum algorithms is probabilistic because we take advantage from the quantum principles (superposition, interference, entanglement, etc.). Therefore, it is a natural question whether a given efficient quantum algorithm can be derandomized and still efficient as it is analogous to derandomizing probabilistic classical algorithms. In the case of hidden subgroup problem, the existing of exact quantum algorithms is still limited:<br>
 <li>The exact quantum hidden subgroup algorithm in $\mathbb{Z}_2^n$ by Brassadr and Hoyer;</li> 
 <li>The exact quantum algorithm for discrete logarithm problem in abelian groups of known order by Mosca. </li>   
+
+The common technique to boost up the success probability of quantum algorithms is amplitude amplification which is a generalization of Grover's algorithm.
 In this paper, we construct an exact quantum algorithm for the hidden subgroup in the family of infinite groups $\mathbb{Z}_{m^k}^n$. Even for $m=3$ and $k=1$, our algorithm is appear to be new.
 
 <h3><b>An exact quantum order finding algorithm and its applications</b></h3>
