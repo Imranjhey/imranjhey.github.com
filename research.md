@@ -4,7 +4,8 @@ title: ""
 ---
 <h2><u>Publications and preprints</u></h2>
 
-<li> <b>An exact quantum hidden subgroup algorithm and applications to solvable groups</b><br>&ensp;&ensp;Authors: Muhammd Imran & <a href="http://old.sztaki.hu/~ivanyos/">Gábor Ivanyos</a>. <br> &ensp;&ensp;The paper is available in <a href="https://doi.org/10.26421/QIC22.9-10-4">Quantum Information and Computation</a> or the preprint version in <a href="https://arxiv.org/pdf/2202.04047.pdf(https://arxiv.org/pdf/2202.04047.pdf)">arXiv</a>. </li>   
+<li> <b>An exact quantum hidden subgroup algorithm and applications to solvable groups</b><br>&ensp;&ensp;Authors: Muhammd Imran & <a href="http://old.sztaki.hu/~ivanyos/">Gábor Ivanyos</a>. <br> &ensp;&ensp;The paper is available in <a href="https://doi.org/10.26421/QIC22.9-10-4">Quantum Information and Computation</a> or the preprint version in <a href="https://arxiv.org/pdf/2202.04047.pdf(https://arxiv.org/pdf/2202.04047.pdf)">arXiv</a>. <br> The natural property of quantum algorithms is probabilistic because we take advantage from the quantum principles (superposition, interference, entanglement, etc.). Therefore, it is a natural question whether a given efficient quantum algorithm can be derandomized and still efficient as it is analogous to derandomizing probabilistic classical algorithms. In the case of hidden subgroup problem, the existing of exact quantum algorithms is still limited:<br>- The exact quantum hidden subgroup algorithm in $\Z_2^n$ by Brassadr and Hoyer; <br> The exact quantum algorithm for discrete logarithm problem in abelian groups of known order by Mosca. 
+</li>   
 
 <li> <b>An exact quantum order finding algorithm and its applications</b> <br>&ensp;&ensp;Author: Muhammad Imran. <br> &ensp;&ensp;The preprint version is available in <a href="https://arxiv.org/pdf/2202.04047.pdf(https://arxiv.org/pdf/220.04240.pdf)">arXiv</a>.</li> 
 
