@@ -1,5 +1,6 @@
 ---
 layout: page
+mathjax: true
 title: ""
 ---
 <h2><u>Publications and preprints</u></h2>
