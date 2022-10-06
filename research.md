@@ -30,7 +30,7 @@ and in the unlucky case may take a very long time to succeed, even may never ter
 <h3> <b>Zero sum subsets and hidden subgroup problem</b></h3>
 Authors: Muhammd Imran & <a href="http://old.sztaki.hu/~ivanyos/">Gábor Ivanyos</a>.
   
-In this project, we succeed to construct the first exact quantum hidden subgroup algorithm for a class of non-abelian groups, namely nilpotent groups of constant nilpotency class and of smooth order. The main key of the algorithm is by series of reductions to groups of smaller nilpotency class (through its central series) using new zero sum subset algorithm in the group $\mathbb{Z}_p^n$ for prim $p$.
+In this project, we succeed to construct the first exact quantum hidden subgroup algorithm for a class of non-abelian groups, namely nilpotent groups of constant nilpotency class and of smooth order. The main key of the algorithm is by series of reductions to groups of smaller nilpotency class (through its central series) using new zero sum subset algorithm in the group $\mathbb{Z}_p^n$ for prime number $p$.
 
 <h3><b>An HSP-based quantum attacks on isogeny-based cryptography</b> </h3>
 Author: Muhammad Imran, <a href="http://old.sztaki.hu/~ivanyos/">Gábor Ivanyos</a>, & <a href="https://sites.google.com/view/peterkutas89/main-page?authuser=0">Péter Kutas</a>.
