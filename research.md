@@ -25,7 +25,11 @@ and in the unlucky case may take a very long time to succeed, even may never ter
 <h2><u>Research in progress</u></h2>
 
   <h3> <b>Zero sum subsets and hidden subgroup problem</b></h3>
-  Authors: Muhammd Imran & <a href="http://old.sztaki.hu/~ivanyos/">Gábor Ivanyos</a>.</li>
+  Authors: Muhammd Imran & <a href="http://old.sztaki.hu/~ivanyos/">Gábor Ivanyos</a>.
+  
+  In this project, we succeed to construct the first exact quantum hidden subgroup algorithm for a class of non-abelian groups, namely nilpotent groups of constant nilpotency class and of smooth order. The main key of the algorithm is by series of reductions to groups of smaller nilpotency class (through its central series) using new zero sum subset algorithm in the group $\mathbb{Z_p}^n$ for prim $p$.
 
 <h3><b>An HSP-based quantum attacks on isogeny-based cryptography</b> </h3>
-Author: Muhammad Imran, <a href="http://old.sztaki.hu/~ivanyos/">Gábor Ivanyos</a>, & <a href="https://sites.google.com/view/peterkutas89/main-page?authuser=0">Péter Kutas</a>.</li>
+Author: Muhammad Imran, <a href="http://old.sztaki.hu/~ivanyos/">Gábor Ivanyos</a>, & <a href="https://sites.google.com/view/peterkutas89/main-page?authuser=0">Péter Kutas</a>.
+
+In this project, we observe a reduction from isogeny problem to some variants of hidden subgroup problem, namely the Borel hidden subgroup problem. Moreover, we provide a new classical algorithm and also an efficient quantum algorithm for the Borel hidden subgroup problem. This is actually a follow up from the previous result obtained by Péter Kutas et al ([see](https://eprint.iacr.org/2021/282.pdf)) in which they provide a reduction from isogeny problem to hidden shift problem where Kuperberg's subexponential algorithm available.
