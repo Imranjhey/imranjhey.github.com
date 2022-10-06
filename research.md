@@ -10,10 +10,13 @@ Authors: Muhammd Imran & <a href="http://old.sztaki.hu/~ivanyos/">Gábor Ivanyos
 <li>The exact quantum hidden subgroup algorithm in $\mathbb{Z}_2^n$ by Brassadr and Hoyer;</li> 
 <li>The exact quantum algorithm for discrete logarithm problem in abelian groups of known order by Mosca. </li>   
 
-<li> <b>An exact quantum order finding algorithm and its applications</b> <br>&ensp;&ensp;Author: Muhammad Imran. <br> &ensp;&ensp;The preprint version is available in <a href="https://arxiv.org/pdf/2202.04047.pdf(https://arxiv.org/pdf/220.04240.pdf)">arXiv</a>.
+<h3><b>An exact quantum order finding algorithm and its applications</h3>
+ Author: Muhammad Imran. <br>The preprint version is available in <a href="https://arxiv.org/pdf/2202.04047.pdf(https://arxiv.org/pdf/220.04240.pdf)">arXiv</a>.
 
 <h2><u>Research in progress</u></h2>
 
-<li> <b>Zero sum subsets and hidden subgroup problem</b> <br>&ensp;&ensp;Authors: Muhammd Imran & <a href="http://old.sztaki.hu/~ivanyos/">Gábor Ivanyos</a>.</li>
+  <h3> <b>Zero sum subsets and hidden subgroup problem</b></h3>
+  Authors: Muhammd Imran & <a href="http://old.sztaki.hu/~ivanyos/">Gábor Ivanyos</a>.</li>
 
-<li> <b>An HSP-based quantum attacks on isogeny-based cryptography</b> <br>&ensp;&ensp;Author: Muhammad Imran, <a href="http://old.sztaki.hu/~ivanyos/">Gábor Ivanyos</a>, & <a href="https://sites.google.com/view/peterkutas89/main-page?authuser=0">Péter Kutas</a>.</li>
+<h3><b>An HSP-based quantum attacks on isogeny-based cryptography</b> </h3>
+Author: Muhammad Imran, <a href="http://old.sztaki.hu/~ivanyos/">Gábor Ivanyos</a>, & <a href="https://sites.google.com/view/peterkutas89/main-page?authuser=0">Péter Kutas</a>.</li>
