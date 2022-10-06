@@ -13,8 +13,8 @@ title: ""
 Authors: Muhammd Imran & [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/). <br>The paper is available in [Quantum Information and Computation](https://doi.org/10.26421/QIC22.9-10-4) or the preprint version in [arXiv](https://arxiv.org/pdf/2202.04047.pdf).
 
 The natural property of quantum algorithms is probabilistic because we take advantage from the quantum principles (superposition, interference, entanglement, etc.). Therefore, it is a natural question whether a given efficient quantum algorithm can be derandomized and still efficient as it is analogous to derandomizing probabilistic classical algorithms. In the hidden subgroup problem, the existing of exact quantum algorithms is still limited:
-* The exact quantum hidden subgroup algorithm in $\mathbb{Z}_2^n$ by Brassard and Hoyer;
-* The exact quantum algorithm for discrete logarithm problem in abelian groups of known order by Mosca.
+* The exact quantum hidden subgroup algorithm in $\mathbb{Z}_2^n$ by Brassard and Hoyer in [BH97](https://arxiv.org/abs/quant-ph/9704027);
+* The exact quantum algorithm for discrete logarithm problem in abelian groups of known order by Mosca and Zalka in [MZ03](https://arxiv.org/abs/quant-ph/0301093).
 
 The common technique to boost up the success probability of quantum algorithms is amplitude amplification which is a generalization of Grover's algorithm. In this paper, we construct an exact quantum algorithm for the hidden subgroup in the family of infinite groups $\mathbb{Z}_{m^k}^n$. Even for $m=3$ and $k=1$, our algorithm is appear to be new.
 
@@ -35,4 +35,4 @@ In this project, we succeed to construct the first exact quantum hidden subgroup
 ### An HSP-based quantum attacks on isogeny-based cryptography
 Author: Muhammad Imran, [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/), & [Péter Kutas](https://sites.google.com/view/peterkutas89/main-page?authuser=0).
 
-In this project, we observe a reduction from isogeny problem to some variants of hidden subgroup problem, namely the Borel hidden subgroup problem. Moreover, we provide a new classical algorithm and also an efficient quantum algorithm for the Borel hidden subgroup problem. This is actually a follow up from the previous result obtained by Péter Kutas et al ([see](https://eprint.iacr.org/2021/282.pdf)) in which they provide a reduction from isogeny problem to the hidden shift problem where Kuperberg's subexponential algorithm available.
+In this project, we observe a reduction from isogeny problem to some variants of hidden subgroup problem, namely the Borel hidden subgroup problem. Moreover, we provide a new classical algorithm and also an efficient quantum algorithm for the Borel hidden subgroup problem. This is actually a follow up from the previous result obtained by Péter Kutas et al ([KMPW21](https://eprint.iacr.org/2021/282.pdf)) in which they provide a reduction from isogeny problem to the hidden shift problem where Kuperberg's subexponential algorithm available.
