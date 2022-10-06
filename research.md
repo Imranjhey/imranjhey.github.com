@@ -4,6 +4,8 @@ mathjax: true
 categories: media
 title: ""
 ---
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
 <h2><u>Publications and preprints</u></h2>
 
 <h3> <b>An exact quantum hidden subgroup algorithm and applications to solvable groups</b></h3>
