@@ -2,18 +2,20 @@
 layout: page
 title: ""
 ---
-<h2><u>Academic Position</u></h2>
-<li><b>Sep. 2022 - Present &emsp;&emsp;&emsp;&emsp;&ensp;&ensp; Profesional Lecturer</b> at Telkom University, Indonesia.</li>
-<li><b>Feb. 2021 - Present &emsp;&emsp;&emsp;&emsp;&ensp;&ensp; Teaching Fellow</b> at Budapest Univ. of Technology and Economics, Hungary.</li>
-<li><b>Sep. 2020 - Present &emsp;&emsp;&emsp;&emsp;&ensp;&ensp; PhD Student</b> at Budapest Univ. of Technology and Economics, Hungary.</li>
+## Academic Position
+---
+* <b>Sep. 2022 - Present &emsp;&emsp;&emsp;&emsp;&ensp;&ensp; Profesional Lecturer</b> at Telkom University, Indonesia.
+* <b>Feb. 2021 - Present &emsp;&emsp;&emsp;&emsp;&ensp;&ensp; Teaching Fellow</b> at Budapest Univ. of Technology and Economics, Hungary.
+* <b>Sep. 2020 - Present &emsp;&emsp;&emsp;&emsp;&ensp;&ensp; PhD Student</b> at Budapest Univ. of Technology and Economics, Hungary.
 
-<h2><u>Education</u></h2> 
-<li><b>PhD Student (Sep. 2020 - Present)</b> at Budapest Univ. of Technology and Economics, Hungary.<br>
- &ensp;&ensp;- PhD Thesis : Algebraic methods in quantum information processing <br>
- &ensp;&ensp;- Supervisor : Prof. Gábor Ivanyos.</li>
-<li><b>M.Sc in Mathematics (Sep. 2017 - Aug. 2019)</b> at Leiden University, The Netherlands.<br>
- &ensp;&ensp;- M.Sc thesis: Gröbner bases for decoding linear codes <br>
- &ensp;&ensp;- Supervisor : Prof. Bas Edixhoven.</li>
-<li><b>B.Sc in Mathematics (Sep. 2012 - Jun. 2016)</b> at Hasanuddin University, Indonesia.<br>
- &ensp;&ensp;- B.Sc thesis: Solutions to systems of linear equations over max-plus algebra <br>
- &ensp;&ensp;- Supervisor : Prof. Amir Kamal Amir.</li>
+## Education
+---
+* <b>PhD Student (Sep. 2020 - Present)</b> at Budapest Univ. of Technology and Economics, Hungary.
+   * PhD Thesis : Algebraic methods in quantum information processing
+   * Supervisor : Prof. Gábor Ivanyos
+* <b>M.Sc in Mathematics (Sep. 2017 - Aug. 2019)</b> at Leiden University, The Netherlands.
+   * M.Sc thesis: Gröbner bases for decoding linear codes
+   * Supervisor : Prof. Bas Edixhoven
+* <b>B.Sc in Mathematics (Sep. 2012 - Jun. 2016)</b> at Hasanuddin University, Indonesia.
+   * B.Sc thesis: Solutions to systems of linear equations over max-plus algebra
+   * Supervisor : Prof. Amir Kamal Amir.</li>
