@@ -18,4 +18,4 @@ title: ""
   * Supervisor : Prof. Bas Edixhoven
 * <b>B.Sc in Mathematics (Sep. 2012 - Jun. 2016)</b> at Hasanuddin University, Indonesia.
   * B.Sc thesis: Solutions to systems of linear equations over max-plus algebra
-  * Supervisor : Prof. Amir Kamal Amir.</li>
+  * Supervisor : Prof. Amir Kamal Amir.
