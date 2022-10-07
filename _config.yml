@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Talks", file: "talks.md"}
   - {title: "Conferences", file: "conferences.md"}
   - {title: "CV", file: "cv.md"}
-  - {title: "News", file: "news.md"}
+  - {title: "Blog", file: "news.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:m.imran@edu.bme.hu"}
