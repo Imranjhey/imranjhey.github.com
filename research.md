@@ -17,11 +17,13 @@ The natural characteristic of quantul algroithms is probabilistic, since it take
 * The exact quantum algorithm for discrete logarithm problem in abelian groups of known order by Mosca and Zalka in [MZ03](https://arxiv.org/abs/quant-ph/0301093).
 
 In this paper, we construct an exact quantum algorithm for the hidden subgroup problem in the infinite family of groups $\mathbb{Z}_{m^k}^n$. Even for $m=3$ and $k=1$, our algorithm is appear to be new. Moreover, we provide the applications of the algorithm in some computational problems in solvable groups such as membership testing, the construction of normal series, etc.
+
 ---
 ### An exact quantum order finding algorithm and its applications
 Author: Muhammad Imran. <br>The preprint version is available in [arXiv](https://arxiv.org/pdf/2205.04240.pdf).
 
 The main key of Shor's algorithm for factoring integers $m$ is a quantum algorithm for finding order of elements in the unit group $\mathbb{Z}_m^*$ of the group of integer modulo $m$. However, the quantum algorithm is polynomial-time in the expected sense, which means it may fail with a small probability and in the unlucky case may take a very long time to succeed, even may never terminate. By the observation that knowing a multiple of the group order $\varphi(m)$ would factor $m$ in randomized classical polynomial time, finding orders of group elements with a known multiple of the order is not necessarily as hard as factoring, so a multiple of the order may be a good help for derandomizition of the quantum algorithm for order finding problem. Some computational problems where such a help available are primality testing problem and the problem of finding primitive elements in arbitrary finite field $\mathbb{F}_q$. However, such a help is not available for factoring problem as $\varphi(m)$ is unknown in general. 
+
 ---
 
 ## Research in progress
@@ -31,6 +33,7 @@ The main key of Shor's algorithm for factoring integers $m$ is a quantum algorit
 Authors: Muhammd Imran & [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/).
   
 In this project, we succeed to construct the first exact quantum hidden subgroup algorithm for a class of non-abelian groups, namely nilpotent groups of constant nilpotency class and of smooth order. The main key of the algorithm is by series of reductions to groups of smaller nilpotency class (through its central series) using new zero sum subset algorithm in the group $\mathbb{Z}_p^n$ for prime number $p$.
+
 ---
 ### On the endomorphism ring group action evaluation problem
 Author: Muhammad Imran, [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/), & [Péter Kutas](https://sites.google.com/view/peterkutas89/main-page?authuser=0).
@@ -40,6 +43,7 @@ In this paper, we consider the endomorphism ring group action evaluation problem
 Instead of relying on the hidden shift problem, we observe that the problem can be reduced to some restricted hidden subgroup problems, i.e., the possible hidden subgroup is restricted to some classes of subgroups. Specifically, we present a reduction from <b>problem 1</b> to the Borel hidden subgroup in $PGL_2(\mathbb{Z}/N \mathbb{Z})$. Moreover, we present a new efficient quantum algorithm for the Borel hidden subgroup problem for any integer $N>1$ and a new efficient classical algorithm for smooth positive integers $N$.
 
 As an application, we show the relation between <b>problem 1</b> and the pure isogeny problem in two special cases. The first case, one is given an isogeny $\phi: E \rightarrow E'$ of degree $N$ where $N$ is smooth and $E[N]$ is defined over a small extension (of size $\mathrm{poly}(\log(p))$). In this case we show that there is a classical polynomial-time reduction from finding $\phi$ to <b>problem 1</b>. In the second case $N$ is a large prime number and also we have access to unlimited torsion-point information of $\phi$, i.e., we can evaluate $\phi$ on any point $P$ where the cost of the evaluation is the size of the representation of $\phi(P)$. This case is motivated by the fact that the scheme [$p$SIDH](https://eprint.iacr.org/2021/1600.pdf) (a modified SIDH to avoid the recent classical attack [Castryck-Decru](https://eprint.iacr.org/2022/975)) relies on the hardness of this problem. We show that in this case one can recover the endomorphism ring of $E'$ in quantum polynomial time.
+
 ---
 
 ## Lecture notes & systematic literature reviews
@@ -49,4 +53,5 @@ As an application, we show the relation between <b>problem 1</b> and the pure is
 Author: Muhammad Imran
 
 In this survey, we conduct a systematic literature review on the most recent and important development in classical and quantum algorithms for some instances of finite hidden subgroup problem which have strong connections with cryptography: lattice-based cryptography, isogeny-based cryptography, and some secure cryptographic protocols. The main purpose of this survey is to give cryptographic motivations for further investigations on finite hidden subgroup problem.
+
 ---
