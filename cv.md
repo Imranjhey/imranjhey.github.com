@@ -4,9 +4,9 @@ title: ""
 ---
 ## Academic Position
 ---
-* <b>Sep. 2022 - Present &emsp;&emsp;&emsp;&emsp;&ensp; Profesional Lecturer</b> at Telkom University, Indonesia.
-* <b>Feb. 2021 - Present &emsp;&emsp;&emsp;&emsp;&ensp; Teaching Assistant</b> at Budapest Univ. of Technology and Economics, Hungary.
-* <b>Sep. 2020 - Present &emsp;&emsp;&emsp;&emsp;&ensp; PhD Student</b> at Budapest Univ. of Technology and Economics, Hungary.
+* <b>Sep. 2022 - Present &emsp;&emsp;&emsp;&emsp; Profesional Lecturer</b> at Informatics Faculty of Telkom University, Indonesia.
+* <b>Feb. 2021 - Present &emsp;&emsp;&emsp;&emsp; Teaching Assistant</b> at Budapest Univ. of Technology and Economics, Hungary.
+* <b>Sep. 2020 - Present &emsp;&emsp;&emsp;&emsp; PhD Student</b> at Budapest Univ. of Technology and Economics, Hungary.
 
 ## Education
 ---
