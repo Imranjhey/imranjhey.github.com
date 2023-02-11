@@ -17,6 +17,4 @@ title: ""
 * <b>The Conference on Quantum Information Processing at California Institute of Technology</b>  [[link]](https://web.cvent.com/event/8adf8248-432b-499c-91e2-63b83ba3f69e/summary)
 * <b>Crypto 2023</b> [[link]](https://crypto.iacr.org/2023/)
 
-### Recommended Source for Isogeny-based Cryptography
-* <b>Isogeny-Based Cryptography School 2021</b> [[link]](https://isogenyschool2020.co.uk/).
-* <b>Leuven Isogeny Days 2022</b> [[link]](https://www.esat.kuleuven.be/cosic/projects/isocrypt/workshops/)
+
