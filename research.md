@@ -22,8 +22,20 @@ In this paper, we construct an exact quantum algorithm for the hidden subgroup p
 ### An exact quantum order finding algorithm and its applications
 Author: [Muhammad Imran](https://muh-imran.github.io). <br>The preprint version is available in [arXiv](https://arxiv.org/pdf/2205.04240.pdf).
 
-The main key of Shor's algorithm for factoring integers $m$ is a quantum algorithm for finding order of elements in the unit group $\mathbb{Z}_m^*$ of the group of integer modulo $m$. However, the quantum algorithm is polynomial-time in the expected sense, which means it may fail with a small probability and in the unlucky case may take a very long time to succeed, even may never terminate. By the observation that knowing a multiple of the group order $\varphi(m)$ would factor $m$ in randomized classical polynomial time, finding orders of group elements with a known multiple of the order is not necessarily as hard as factoring, so a multiple of the order may be a good help for derandomizition of the quantum algorithm for order finding problem. Some computational problems where such a help available are primality testing problem and the problem of finding primitive elements in arbitrary finite field $\mathbb{F}_q$. However, such a help is not available for factoring problem as $\varphi(m)$ is unknown in general. 
+The main key of Shor's algorithm for factoring integers $m$ is a quantum algorithm for finding order of elements in the unit group $\mathbb{Z}_m^*$ of the group of integer modulo $m$. However, the quantum algorithm is polynomial-time in the expected sense, which means it may fail with a small probability and in the unlucky case may take a very long time to succeed, even may never terminate. By the observation that knowing a multiple of the group order $\varphi(m)$ would factor $m$ in randomized classical polynomial time, finding orders of group elements with a known multiple of the order is not necessarily as hard as factoring, so a multiple of the order may be a good help for derandomizition of the quantum algorithm for order finding problem. Some computational problems where such a help available are primality testing problem and the problem of finding primitive elements in arbitrary finite field $\mathbb{F}_q$. However, such a help is not available for factoring problem as $\varphi(m)$ is unknown in general.
 
+---
+### On the endomorphism ring group action evaluation problem
+Author: [Muhammad Imran](https://muh-imran.github.io), [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/), [Péter Kutas](https://sites.google.com/view/peterkutas89/main-page?authuser=0), & [Antonin Leroux](http://www.lix.polytechnique.fr/Labo/Antonin.LEROUX/). <br> The paper is submitted to [Crypto 2023](https://crypto.iacr.org/2023/)
+
+This paper studies the problem of computing the endomorphism ring of the codomain of a secret isogeny between supersingular curves in characteristic $p$ given a representation for this isogeny, i.e. a way to evaluate this isogeny on any torsion point. This problem, that we call the Isogeny to Endomorphism Ring Problem (IsERP), plays a central role in isogeny-based cryptography and is at the heart of the recent attacks that broke the SIDH key exchange. 
+  However, no efficient algorithm is known to solve the IsERP for a generic degree, and the hardest case seems to be when the degree is prime. The key exchange pSIDH recently proposed by Leroux bases its security on the prime-degree version of the IsERP.
+  We propose a quantum polynomial-time attack with subexponential classical precomputation (computation that only depends on the starting curve and the degree but not on the secret isogeny) on IsERP for any isogeny degree.  A key implication of this is that one should not reuse the starting curve and the degree in pSIDH.  
+  We use two main tools: the group action of $(\End(E)/N\End(E))^*$ on the set of $N$-isogenies and a related non-abelian hidden subgroup problem that can be solved in quantum polynomial time. 
+  
+  The task of the precomputation is a pure quaternion problem. Namely, one is given a maximal order $O$, $\tau\in O$ and integer $N$ and one has to find $\sigma\in O$ such that the norm of $\tau+N\sigma$ is powersmooth. This problem might be of independent interest as it closely related to subroutines in the celebrated KLPT algorithm and SQISign. Currently
+  we are aware of a classical subexponetial time method for this task. We show that if one lifts $O(\log p)$ special elements, then lifting an arbitrary $\sigma$ can be accomplished in quantum polynomial time. 
+  
 ---
 
 ## Research in progress
@@ -34,17 +46,6 @@ Authors: [Muhammd Imran](https://muh-imran.github.io) & [Gábor Ivanyos](http://
   
 In this project, we succeed to construct the first exact quantum hidden subgroup algorithm for a class of non-abelian groups, namely nilpotent groups of constant nilpotency class and of smooth order. The main key of the algorithm is by series of reductions to groups of smaller nilpotency class (through its central series) using new zero sum subset algorithm in the group $\mathbb{Z}_p^n$ for prime number $p$.
 
----
-### On the endomorphism ring group action evaluation problem
-Author: [Muhammad Imran](https://muh-imran.github.io), [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/), [Péter Kutas](https://sites.google.com/view/peterkutas89/main-page?authuser=0), & [Antonin Leroux](http://www.lix.polytechnique.fr/Labo/Antonin.LEROUX/).
-
-This paper studies the problem of computing the endomorphism ring of the codomain of a secret isogeny between supersingular curves in characteristic $p$ given a representation for this isogeny, i.e. a way to evaluate this isogeny on any torsion point. This problem that we call IsERP (for Isogeny to Endomorphism Ring Problem) plays a central role in isogeny-based cryptography. Some special version of it (where the degree is smooth) is at the heart of the recent attacks that broke the SIDH key exchange, and these attacks exploit an efficient algorithm to solve the IsERP in the smooth-degree case. 
-
-However, no efficient algorithm is known to solve the IsERP for a generic degree, and the hardest case seems to be when the degree is prime. The key exchange pSIDH recently proposed by Leroux bases its security on the prime-degree version of the IsERP.   
-
-In this paper, we study the security of the generic IsERP by proving a quantum polynomial-time reduction from the Quaternion Powersmooth Lifting Problem (PQLP), a problem of finding elements of powersmooth norm and specific shape in maximal orders of the quaternion algebra ramified at $p$ and $\infty$, to the IsERP. A special easy version of the PQLP appears in the context of the KLPT algorithm from Kohel, Lauter, Petit and Tignol, but the generic case remains hard. Our best algorithm has sub-exponential complexity and thus does not reduce the hardness of the generic IsERP, but our reduction does provide a new angle, based on different objects, to attack the IsERP. Moreover, we prove that solving the PQLP can be done efficiently after solving a logarithmic number of related instances, thus providing a way to solve the IsERP (with fixed degree and starting curve) efficiently after a sub-exponential precomputation.   
-    
-Our reduction is obtained through an interesting intermediate result : a quantum equivalence between the IsERP and a group action evaluation problem that already appeared in the context of the cryptanalysis of SIDH.
 
 ---
 
