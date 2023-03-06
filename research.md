@@ -51,7 +51,7 @@ In this project, we succeed to construct the first exact quantum hidden subgroup
 ### Stripped, multidimensional version of the Childs–van Dam approach to the hidden multiple shift problem
 Author: [Muhammd Imran](https://muh-imran.github.io).
 
-The hidden multiple shift problem (HMS) can be seen as an interpolation between the abelian and dihedral hidden subgroup problems. HMS is defined as follows, We are given a subset $H\subseteq \mathbb{Z}_q$ of cardinality $r$. (Here $q$ is an integer greater than $1$, not necessarily a prime.) A function $f_s:\mathbb{Z}_q^n\times H\rightarrow {0,1}^l$ is given by an oracle, where $f_s(x,h)=f(x-hs)$ for some $s\in \mathbb{Z}_q^n$, and an injective function $f:\mathbb{Z}_q^n \rightarrow \left{ 0,1 \right^l$. The goal is to find $s$ modulo $\gcd\{q,h-h':h,h'\in H\}$. 
+The hidden multiple shift problem (HMS) can be seen as an interpolation between the abelian and dihedral hidden subgroup problems. HMS is defined as follows, We are given a subset $H\subseteq \mathbb{Z}_q$ of cardinality $r$. (Here $q$ is an integer greater than $1$, not necessarily a prime.) A function $f_s:\mathbb{Z}_q^n\times H\rightarrow {0,1}^l$ is given by an oracle, where $f_s(x,h)=f(x-hs)$ for some $s\in \mathbb{Z}_q^n$, and an injective function $f:\mathbb{Z}_q^n \rightarrow \text{{0,1}}^l$. The goal is to find $s$ modulo $\gcd\{q,h-h':h,h'\in H\}$. 
 
 In this project, we would like to construct a stripped (free of "pretty good measurement") version of the Childs-van Dam method to the hidden multiple shift problem for multidimensional case, in particular for constant dimension/rank.
 
