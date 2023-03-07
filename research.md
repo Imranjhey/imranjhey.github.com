@@ -56,7 +56,12 @@ The hidden multiple shift problem (HMS) can be seen as an interpolation between 
 In this project, we would like to construct a stripped (free of "pretty good measurement") version of the [Childs-van Dam](https://arxiv.org/abs/quant-ph/0507190) method to the hidden multiple shift problem for multidimensional case, particularly for constant dimension/rank.
 
 ---
+### An exact quantum algorithm for factoring univariate polynomials over finite fields
+Author: [Muhammd Imran](https://muh-imran.github.io).
 
+In this project, we would like to construct a quantum version of [Berlekamp's algorithm](https://en.wikipedia.org/wiki/Berlekamp%27s_algorithm).
+
+---
 ## Lecture notes & systematic literature reviews
 
 ---
