@@ -26,7 +26,7 @@ The main key of Shor's algorithm for factoring integers $m$ is a quantum algorit
 
 ---
 ### Hidden stabilizers and the Isogeny to Endomorphism Ring Problem
-Author: [Muhammad Imran](https://muh-imran.github.io), [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/), [Péter Kutas](https://sites.google.com/view/peterkutas89/main-page?authuser=0), & [Antonin Leroux](http://www.lix.polytechnique.fr/Labo/Antonin.LEROUX/). <br> The paper is submitted to [Crypto 2023](https://crypto.iacr.org/2023/).
+Author: [Muhammad Imran](https://muh-imran.github.io), [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/), [Péter Kutas](https://sites.google.com/view/peterkutas89/main-page?authuser=0), & [Antonin Leroux](https://tonioecto.github.io/antoninleroux/). <br> The paper is submitted to [Crypto 2023](https://crypto.iacr.org/2023/).
 
 This paper studies the problem of computing the endomorphism ring of the codomain of a secret isogeny between supersingular curves in characteristic $p$ given a representation for this isogeny, i.e. a way to evaluate this isogeny on any torsion point. This problem, that we call the Isogeny to Endomorphism Ring Problem (IsERP), plays a central role in isogeny-based cryptography and is at the heart of the recent attacks that broke the SIDH key exchange. 
   However, no efficient algorithm is known to solve the IsERP for a generic degree, and the hardest case seems to be when the degree is prime. The key exchange pSIDH recently proposed by Leroux bases its security on the prime-degree version of the IsERP.
