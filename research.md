@@ -12,6 +12,7 @@ title: ""
 Author: [Muhammad Imran](https://muh-imran.github.io) <br>The preprint version is available in [arXiv](https://arxiv.org/abs/2303.17196).
 
 Private set intersection (PSI) is a cryptographic primitive that allows two or more parties to learn the intersection of their input sets and nothing else. In this paper, we present a private set intersection protocol based on a new secure multi-party quantum protocol for greatest common divisor (GCD). The protocol is mainly inspired by the recent quantum private set union protocol based on least common multiple by Li, Yang, and Liu. Performance analysis guarantees the correctness and it also shows that the proposed protocols are completely secure in semi-honest model. Moreover, the complexity is proven to be efficient in the size of the input sets.
+
 ---
 ### Hidden stabilizers and the Isogeny to Endomorphism Ring Problem
 Author: [Muhammad Imran](https://muh-imran.github.io), [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/), [Péter Kutas](https://sites.google.com/view/peterkutas89/main-page?authuser=0), & [Antonin Leroux](https://tonioecto.github.io/antoninleroux/). <br> The paper is submitted to [Crypto 2023](https://crypto.iacr.org/2023/).
@@ -25,6 +26,7 @@ The task of the precomputation is a pure quaternion problem. Namely, one is give
 Author: [Muhammad Imran](https://muh-imran.github.io). <br>The preprint version is available in [arXiv](https://arxiv.org/abs/2205.04240).
 
 The main key of Shor's algorithm for factoring integers $m$ is a quantum algorithm for finding order of elements in the unit group $\mathbb{Z}_m^*$ of the group of integer modulo $m$. However, the quantum algorithm is polynomial-time in the expected sense, which means it may fail with a small probability and in the unlucky case may take a very long time to succeed, even may never terminate. By the observation that knowing a multiple of the group order $\varphi(m)$ would factor $m$ in randomized classical polynomial time, finding orders of group elements with a known multiple of the order is not necessarily as hard as factoring, so a multiple of the order may be a good help for derandomizition of the quantum algorithm for order finding problem. Some computational problems where such a help available are primality testing problem and the problem of finding primitive elements in arbitrary finite field $\mathbb{F}_q$. However, such a help is not available for factoring problem as $\varphi(m)$ is unknown in general.
+
 ---
 
 ### An exact quantum hidden subgroup algorithm and applications to solvable groups
