@@ -12,4 +12,5 @@ I am a professional lecturer at Informatics Faculty ([School of Computing](https
 My research interests lie in computational algebra & number theory, and their applications in computer science. Currently, I am working on:
 * Quantum algorithms, especially for some variants of the hidden subgroup problem (HSP);
 * HSP-based cryptanalysis for post-quantum cryptography, especially for isogeny-based cryptography;
+* Quantum cryptography: multi-party quantum computation;
 * Computational algebra.
