@@ -33,8 +33,8 @@ This paper studies the problem of computing the endomorphism ring of the codomai
 The task of the precomputation is a pure quaternion problem. Namely, one is given a maximal order $O$, $\tau\in O$ and integer $N$ and one has to find $\sigma\in O$ such that the norm of $\tau+N\sigma$ is powersmooth. This problem might be of independent interest as it closely related to subroutines in the celebrated KLPT algorithm and SQISign. Currently we are aware of a classical subexponetial time method for this task. We show that if one lifts $O(\log p)$ special elements, then lifting an arbitrary $\sigma$ can be accomplished in quantum polynomial time. 
   
 ---
-### A private set intersection protocol based on multi-party quantum computation of greatest common divisor
-Author: [Muhammad Imran](https://muh-imran.github.io) <br>The preprint version is available in [arXiv]().
+### A private set intersection protocol based on multi-party quantum computation for greatest common divisor
+Author: [Muhammad Imran](https://muh-imran.github.io) <br>The preprint version is available in [arXiv](https://arxiv.org/abs/2303.17196).
 
 Private set intersection (PSI) is a cryptographic primitive that allows two or more parties to learn the intersection of their input sets and nothing else. In this paper, we present a private set intersection protocol based on a new secure multi-party quantum protocol for greatest common divisor (GCD). The protocol is mainly inspired by the recent quantum private set union protocol based on least common multiple by Li, Yang, and Liu. Performance analysis guarantees the correctness and it also shows that the proposed protocols are completely secure in semi-honest model. Moreover, the complexity is proven to be efficient in the size of the input sets.
 
